@@ -1,0 +1,13 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "Enigma machine simulation",
+  "main": "enigma.js",
+  "repository": "git@github.com:jeremy-davis-sonarsource/enigma.git",
+  "author": "illiptic",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
